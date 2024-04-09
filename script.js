@@ -11,7 +11,7 @@ let jsonObject = {
 	"title" : "Resident Evil 4", "Genre" : "Action-Horror", "year" : "2005",
 	"characters" : ["Leon","Ashley", "Luis", "Salazar"],
 	"color" : "darkblue",
-	"img" : "re4.JPG",
+	"img" : "re4.jpg",
 	"genre" : "Action + Survival Horror",
 	"reason" : "The GOAT! Super revolutionary and also stands up to the test of time! It's also unironically one of the funniest games I've ever played and the memes are excellent. Also really love the remake and if I'd have to pick one to play it goes back and forth but we'll give it to the classic because it's just so iconic!"
 }
@@ -21,7 +21,7 @@ let jsonObject2 = {
 	"year" : "2017",
 	"characters" : ["Link","Zelda"],
 	"color" : "blue",
-	"img" : "zelda.JPG",
+	"img" : "zelda.jpg",
 	"genre" : "Open World + Puzzle",
 	"reason" : "Quarentine. This game was my life in 2020 and I've continued to play on and off until the sequel came out last year... wait its already been almost a year... fuck man."
 
@@ -32,7 +32,7 @@ let jsonObject3 = {
 	"year" : "2016",
 	"characters" : ["Joker","Morgana","Ryuji","Ann"],
 	"color" : "red",
-	"img" : "p5.JPG",
+	"img" : "p5.jpg",
 	"genre" : "JRPG + Social Sim",
 	"reason" : "Compleling Story and most fun gameplay I've encountered in an RPG"
 
